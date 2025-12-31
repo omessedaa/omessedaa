@@ -11,8 +11,9 @@ Automation builder. Homelab tinkerer. Systems & workflows. Montréal, QC.
 I like turning repetitive work into **clean scripts**, **reusable templates**, and **documented setups**.
 
 ## 🔧 What I work with
-- Python • Linux • Docker • Proxmox • Networking • Automation
-- Observability & self-hosting (monitoring, reverse proxies, auth, backups)
+Python • Linux • Docker • Proxmox • Networking • Automation • Git
+Self-hosting & infrastructure: reverse proxies, DNS, VPN, TLS, identity/auth, backups
+Observability: metrics, logs, alerting (Grafana/Prometheus-style stacks)
 
 ## ⭐ Featured project
 ### Centris Photo Downloader (Colab)
