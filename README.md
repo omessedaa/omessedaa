@@ -1,5 +1,11 @@
 # Hi, I'm Oualid 👋
 
+![Python](https://img.shields.io/badge/Python-000?logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000?logo=docker&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-000?logo=proxmox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000?logo=git&logoColor=white)
+
 Automation builder. Homelab tinkerer. Systems & workflows. Montréal, QC.
 
 I like turning repetitive work into **clean scripts**, **reusable templates**, and **documented setups**.
